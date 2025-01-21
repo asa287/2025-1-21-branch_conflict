@@ -14,3 +14,4 @@ git switch b2
 git rebase main
 (now the conflict shown in the vscode, edit the file and save)
 git rebase --continue
+git push --force origin b2

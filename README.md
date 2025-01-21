@@ -8,10 +8,10 @@
 
 In the process of rebase, merge command is done as well
 
-git switch main
-git pull
-git switch b2
-git rebase main
+- `git switch main`
+- `git pull`
+- `git switch b2`
+- `git rebase main`
 (now the conflict shown in the vscode, edit the file and save)
-git rebase --continue
-git push --force origin b2
+- `git rebase --continue`
+- `git push --force origin b2`
